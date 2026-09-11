@@ -1,0 +1,9 @@
+# Ignore the push script
+send to git.bat
+
+# Ignore KiCad temporary and backup files
+*.bak
+*-save.kicad_pcb
+*-save.kicad_sch
+_autosave-*
+fp-info-cache
