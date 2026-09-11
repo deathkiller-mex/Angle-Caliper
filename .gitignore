@@ -1,6 +1,6 @@
 # Ignore the push script
 send to git.bat
-
+.gitgnore
 # Ignore KiCad temporary and backup files
 *.bak
 *-save.kicad_pcb
