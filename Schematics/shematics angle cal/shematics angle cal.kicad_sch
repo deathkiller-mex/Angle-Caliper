@@ -986,6 +986,12 @@
 		(color 255 16 0 1)
 		(uuid "a2a11ec6-3d82-4aad-a9e0-bb6b6461e9ee")
 	)
+	(junction
+		(at 43.18 80.01)
+		(diameter 0)
+		(color 255 0 23 1)
+		(uuid "adeaa951-d3ff-406a-b0ec-f171e678acd7")
+	)
 	(wire
 		(pts
 			(xy 45.72 58.42) (xy 45.72 93.98)
@@ -999,7 +1005,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 80.01) (xy 63.5 80.01)
+			(xy 38.1 80.01) (xy 43.18 80.01)
 		)
 		(stroke
 			(width 0)
@@ -1279,6 +1285,17 @@
 	)
 	(wire
 		(pts
+			(xy 72.39 48.26) (xy 72.39 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 12 1)
+		)
+		(uuid "aa679ffc-58a6-4051-9989-017210b3b9ee")
+	)
+	(wire
+		(pts
 			(xy 78.74 71.12) (xy 111.76 71.12)
 		)
 		(stroke
@@ -1301,6 +1318,17 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 80.01) (xy 43.18 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 12 1)
+		)
+		(uuid "d0f97b68-07b7-4657-a283-f26a409f77f3")
+	)
+	(wire
+		(pts
 			(xy 85.09 59.69) (xy 82.55 59.69)
 		)
 		(stroke
@@ -1319,6 +1347,17 @@
 			(type default)
 		)
 		(uuid "dc2aba7d-97a0-40a1-8664-a0951e17a455")
+	)
+	(wire
+		(pts
+			(xy 43.18 80.01) (xy 63.5 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 12 1)
+		)
+		(uuid "dede7606-20b2-425c-bdeb-375bc0f1f9f5")
 	)
 	(wire
 		(pts
@@ -1373,6 +1412,17 @@
 			(type default)
 		)
 		(uuid "f0604da0-8aa0-45f5-8b07-23c032117070")
+	)
+	(wire
+		(pts
+			(xy 43.18 48.26) (xy 72.39 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 12 1)
+		)
+		(uuid "f6fe563c-81c6-4581-9cc1-6b985c5c63bb")
 	)
 	(wire
 		(pts
@@ -1521,10 +1571,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "290f5d2d-25b2-435d-a502-485529ec6219")
 		(property "Reference" "0.91OLED1"
-			(at 113.03 90.1699 0)
+			(at 100.076 89.916 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
