@@ -3,41 +3,58 @@ Angle Caliper
 
 # CAD
 
-Go into the CAD folder to download the whathever files u need (.step, .stl, .f3z) for the case and parts needed for the caliper: 
+Go into the CAD folder to download whatever files u need (.step, .stl, .f3z) for the case and parts needed for the caliper: 
 * Main case top: 
-![alt text](<top cover up.png>) ![alt text](<top cover down.png>)
+<img width="247" height="313" alt="top cover up" src="https://github.com/user-attachments/assets/58f769b3-c59a-4bde-b86c-d21afad06efa" />
+
 
 
 * Main case bottom cover: 
-![alt text](<bottom cover down.png>) ![alt text](<bottom cover.png>)
+<img width="398" height="326" alt="bottom cover" src="https://github.com/user-attachments/assets/22f5c379-b0d1-44a8-8165-c21e458e269e" />
 
 
 * Lid: 
-![alt text](lid.png)
+<img width="229" height="177" alt="lid" src="https://github.com/user-attachments/assets/b7edf869-6bfc-460b-a0f9-8cbb16a117e0" />
+
 
 
 * Magnet cover: 
-![alt text](<magnet cover.png>)
+<img width="302" height="185" alt="magnet cover" src="https://github.com/user-attachments/assets/286c6fa0-1cfa-43ab-aaa2-45d91c69d166" />
+
+
 
 * Finished Assembly:
-![alt text](<whole assmbly 2.png>) ![alt text](<bottom cover assembled down.png>) ![alt text](<bottom cover assembled up.png>) ![alt text](<whole assembly.png>)
+<img width="484" height="328" alt="whole assmbly 2" src="https://github.com/user-attachments/assets/b2b7c8f6-95ba-4796-a045-b890d95acebe" />
+<img width="485" height="263" alt="whole assembly" src="https://github.com/user-attachments/assets/46d7c35d-a040-4dd5-b5dd-7b2a8193b61e" />
 
 
-# Shematic
 
-This is the wiring diagram to follow: make sure everything is wired exactly like this and\or if u change something like a pin, REMEMBER TO CHANGE THE CODE TOO!!
-![alt text](shematic.png)
+
+# Schematic
+
+This is the wiring diagram to follow: make sure everything is wired exactly like this and\or if u change something like a pin, REMEMBER TO CHANGE THE CODE TOO!! 
+
+<img width="400" height="248" alt="shematic" src="https://github.com/user-attachments/assets/943deebc-d049-4519-b631-bcd7059a1965" />
+
 
 # Assembly
 
 Follow this vid on how to assemble the caliper and where each component goes.
-<video controls src="angle caliper v12.avi" title="Title"></video>
+https://github.com/user-attachments/assets/a8357a40-0c6c-4dcd-b7e9-901ac03b5d02
+
+
+
 
 # Code
- 
-* For the code you'll need Arduino IDE and follow this steps.
 
-1. Either download the caliper_code.io file from the code folder or, copy the following code into Arduino IDE
+* Libraries used
+  - Wire: https://docs.arduino.cc/language-reference/en/functions/communication/wire/
+  - u8g2: https://github.com/olikraus/u8g2
+  - AS5600: https://github.com/RobTillaart/AS5600/blob/master/AS5600.h
+ 
+* For the code, you'll need the Arduino IDE and follow these steps.
+
+1. Either download the caliper_code.io file from the code folder or copy the following code into the Arduino IDE
 
 // Start of code: 
 #include <Wire.h>
@@ -115,12 +132,12 @@ float batper = (Vbat-Vo)/(Vt-Vo)*100;
 // End of code.
 
 2. Choose the XIAO-C3 board
-3. Now u can either verify the code or just uploud.
+3. Now u can either verify the code or just upload.
 4. Once it finishes uploading u can disconnect the XIAO from the laptop.
 5. Now to verify everything works properly: 
-    - The screen should be on displaying the DEG, RAD, and Battery levels.
+    - The screen should be on, displaying the DEG, RAD, and Battery levels.
     - The Angles displayed should change as u move the magnet around the chip (AS5600). NOTE: The angle readings will not be accurate till the top case is placed since the magnet must be perfectly centered around the AS5600 chip.
-6. If everything works u can finish it up and screw the lid and place the top cover.
+6. If everything works u can finish it up, screw the lid, and place the top cover.
 7. And that's it!! Enjoy ur compact angle caliper.
 
 # BOM
