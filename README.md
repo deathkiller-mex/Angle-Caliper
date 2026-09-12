@@ -32,7 +32,8 @@ Go into the CAD folder to download whatever files u need (.step, .stl, .f3z) for
 
 # Schematic
 
-This is the wiring diagram to follow: make sure everything is wired exactly like this and\or if u change something like a pin, REMEMBER TO CHANGE THE CODE TOO!!
+This is the wiring diagram to follow: make sure everything is wired exactly like this and\or if u change something like a pin, REMEMBER TO CHANGE THE CODE TOO!! 
+
 <img width="400" height="248" alt="shematic" src="https://github.com/user-attachments/assets/943deebc-d049-4519-b631-bcd7059a1965" />
 
 
