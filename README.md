@@ -155,9 +155,8 @@ float batper = (Vbat-Vo)/(Vt-Vo)*100;
 
 |Part|Amount|Cost|Link|
 |:--:|:----:|:--:|:--:|
-|AS5600|1|$0.00|Aliexpress|
-|Lipo 3.7V 4000mAh|1|$0.00|Aliexpress|
-|XIAO|1|$0.00|Aliexpress|
-|Threads|1|$0.00|Aliexpress|
-|Screws|1|$0.00|Aliexpress|
+|AS5600|1|$1.77|[Aliexpress](https://www.aliexpress.com/item/3256808447376776.html?spm=a2g0o.cart.0.0.39a838da8GZzve&mp=1&pdp_npi=6%40dis%21USD%21USD%201.77%21USD%201.77%21%21USD%201.77%21%21%21%402101e7a317892615307562638e1015%2112000058634370611%21ct%21US%216359134517%21%211%210%21)|
+|Lipo 3.7V 4000mAh|1|$7.49|[Aliexpress](https://www.aliexpress.com/item/3256812605734224.html?spm=a2g0o.cart.0.0.39a838da8GZzve&mp=1&pdp_npi=6%40dis%21USD%21USD%208.92%21USD%207.49%21%21USD%207.49%21%21%21%402101e7a317892614730068148e1015%2112000059371698515%21ct%21US%216359134517%21%211%210%21)|
+|XIAO|1|$9.81|[Aliexpress](https://www.aliexpress.us/item/3256805951491414.html?spm=a2g0o.cart.similar_items.1.39a838da8GZzve&utparam-url=scene%3Aimage_search%7Cquery_from%3Acart_soldout_item%7Cx_object_id%3A1005006137806166%7C_p_origin_prod%3A&algo_pvid=3a43fc97-2929-498d-854e-c946a11dff4b&algo_exp_id=3a43fc97-2929-498d-854e-c946a11dff4b&pdp_ext_f=%7B%22order%22%3A%22312%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%219.81%219.81%21%21%2165.52%2165.52%21%402101e7a317892615953965562e1015%2112000052210886097%21sea%21US%216359134517%21X%211%210%21n_tag%3A-29919%3Bd%3Ad6460094%3Bm03_new_user%3A-29895&gatewayAdapt=4itemAdapt)|
+|Threaded inserts and screws|1|$0.00|[Aliexpress](https://www.aliexpress.us/item/3256805741240431.html?spm=a2g0o.productlist.main.41.57b64CLw4CLw4d&algo_pvid=b3e3c5da-66c9-47f0-8bbb-818d9ba33ca5&algo_exp_id=b3e3c5da-66c9-47f0-8bbb-818d9ba33ca5-40&pdp_ext_f=%7B%22order%22%3A%2292%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.10%213.10%21%21%2120.70%2120.70%21%402101c4b817892616810608620e1036%2112000034885853182%21sea%21US%216359134517%21X%211%210%21n_tag%3A-29919%3Bd%3Ad6460094%3Bm03_new_user%3A-29895&curPageLogUid=suiafjuPIYKs&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005927555183%7C_p_origin_prod%3A)|
 |Total|1|$0.00|Aliexpress|
