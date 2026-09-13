@@ -1,9 +1,20 @@
 # Angle-Caliper
-Angle Caliper
+I got this idea because when 3D designing different parts, they often have angles, and these are often hard to accurately replicate, and the market angle finders are too big for small parts.
+![image.png](https://cdn.hackclub.com/01a0637a-a47c-7141-a5c6-4cd5a03e4590/image.png)
+![image.png](https://cdn.hackclub.com/01a0637a-de55-7341-9a75-3a09ccc14c0a/image.png)
+![image.png](https://cdn.hackclub.com/01a0637b-0821-7ff6-a93b-1bb18854db6d/image.png)
+These are just some online examples, and all of them have the same issue: they are way too big, and some (the last example) find angles based on Earth instead of on the part. 
+So after using a digital caliper for almost 1-2 years and finding it incredibly useful and even indispensable, I've decided to take its digital and convenience factor but to find angles. 
+So this is what I did. 
+* To measure the angles, I choose and AS5600 due to its precision and small build.
+* For the main brain, I chose the XIAO. I chose this brain since it has a built-in charger module as well as a power regulator to operate safely. Tho components to do this job could've been added, keeping it all in one component made the build more compact, which is the end goal.
+
+For now, I've given the build some small arms for testing, but for the future I might add interchangeable removable arms to adapt to the situation and need. 
+
 
 # CAD
 
-Go into the CAD folder to download whatever files u need (.step, .stl, .f3z) for the case and parts needed for the caliper: 
+Go into the CAD folder to download all the files needed to build the caliper (.step, .stl, or .f3z) for the case and parts needed for the caliper: 
 * Main case top: 
 <img width="247" height="313" alt="top cover up" src="https://github.com/user-attachments/assets/58f769b3-c59a-4bde-b86c-d21afad06efa" />
 
