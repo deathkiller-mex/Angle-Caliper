@@ -1,9 +1,5 @@
 # Angle-Caliper
-I got this idea because when 3D designing different parts, they often have angles, and these are often hard to accurately replicate, and the market angle finders are too big for small parts.
-![image.png](https://cdn.hackclub.com/01a0637a-a47c-7141-a5c6-4cd5a03e4590/image.png)
-![image.png](https://cdn.hackclub.com/01a0637a-de55-7341-9a75-3a09ccc14c0a/image.png)
-![image.png](https://cdn.hackclub.com/01a0637b-0821-7ff6-a93b-1bb18854db6d/image.png)
-These are just some online examples, and all of them have the same issue: they are way too big, and some (the last example) find angles based on Earth instead of on the part. 
+I got this idea because when 3D designing different parts, they often have angles, and these are often hard to accurately replicate, and the market angle finders are too big for small parts so they end up being useless due either to their size and/or some find angles based on Earth instead of on the part. 
 So after using a digital caliper for almost 1-2 years and finding it incredibly useful and even indispensable, I've decided to take its digital and convenience factor but to find angles. 
 So this is what I did. 
 * To measure the angles, I choose and AS5600 due to its precision and small build.
